@@ -1,0 +1,7 @@
+name, arrival_time, cycles, iofreq, iodir
+Process 1, arrival time=0, Service Time=3, I/Ofreq=0, Duration=0
+Process 2, arrival time=2, Service Time=6, I/Ofreq=0, Duration=0
+Process 3, arrival time=4, Service Time=4, I/Ofreq=0, Duration=0
+Process 4, arrival time=6, Service Time=5, I/Ofreq=0, Duration=0
+Process 5, arrival time=8, Service Time=2, I/Ofreq=0, Duration=0
+

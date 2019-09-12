@@ -1,0 +1,15 @@
+Shortest Process Next
+Process 1, finish at Cycle 3, With a turnaround time of 3
+Process 3, finish at Cycle 8, With a turnaround time of 4
+Process 5, finish at Cycle 11, With a turnaround time of 3
+Process 4, finish at Cycle 17, With a turnaround time of 11
+Process 2, finish at Cycle 24, With a turnaround time of 22
+Average turnaround time:  8.6
+
+Shortest Remaining Time
+Process 1, finish at Cycle 3, With a turnaround time of 3
+Process 3, finish at Cycle 8, With a turnaround time of 4
+Process 5, finish at Cycle 11, With a turnaround time of 3
+Process 4, finish at Cycle 17, With a turnaround time of 11
+Process 2, finish at Cycle 24, With a turnaround time of 22
+Average turnaround time:  8.6

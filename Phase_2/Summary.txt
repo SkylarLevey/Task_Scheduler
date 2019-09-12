@@ -1,0 +1,15 @@
+First Come First Serve
+Process 1, finish at Cycle 3, With a turnaround time of 3
+Process 2, finish at Cycle 9, With a turnaround time of 7
+Process 3, finish at Cycle 13, With a turnaround time of 9
+Process 4, finish at Cycle 18, With a turnaround time of 12
+Process 5, finish at Cycle 20, With a turnaround time of 12
+Average turnaround time:  8.6
+
+Round Robin
+Process 1, finish at Cycle 5, With a turnaround time of 5
+Process 3, finish at Cycle 13, With a turnaround time of 9
+Process 5, finish at Cycle 15, With a turnaround time of 7
+Process 2, finish at Cycle 17, With a turnaround time of 15
+Process 4, finish at Cycle 20, With a turnaround time of 14
+Average turnaround time:  10.0

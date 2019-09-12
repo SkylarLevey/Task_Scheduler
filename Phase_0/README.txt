@@ -1,0 +1,1 @@
+This was the planning/project organization phase. The other document in this folder gives a nice outline of the entire project.

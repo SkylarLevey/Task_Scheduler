@@ -1,0 +1,7 @@
+name,priority,cycles,ram
+i/o-mouse,3,5,.1
+Chrome_Start.exe,5,125,4
+Chrome_Update.exe,5,140,5
+internet_Connection,3,50,3
+i/o-disk,1,40,1
+Chrome_idle.exe,6,200,5
